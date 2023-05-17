@@ -1,2 +1,1 @@
-# practica
-aprendiendo
+sincronizando
